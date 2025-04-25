@@ -1,0 +1,26 @@
+# Core analysis packages
+dada2=1.28.0
+phyloseq=1.44.0
+vegan=2.6-4
+DESeq2=1.40.2
+
+# Visualization packages
+ggplot2=3.4.4
+pheatmap=1.0.12
+RColorBrewer=1.1-3
+ggpubr=0.6.0
+ggrepel=0.9.4
+
+# Network analysis
+igraph=1.6.0
+SpiecEasi=1.1.2
+
+# Data manipulation
+tidyverse=2.0.0
+reshape2=1.4.4
+data.table=1.14.8
+
+# Statistical analysis
+stats=4.3.2
+car=3.1-2
+lmPerm=2.1.0 
